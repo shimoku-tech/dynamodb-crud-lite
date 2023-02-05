@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 1.0.2 (2023-02-06)
+
+### Resolved a npm publication issue
+
+* Added this new version to resolve a npm publication issue.
+
 ## 1.0.0 (2023-02-05)
 
 ### Initial release of DynamoDB CRUD Lite, a JavaScript library for simplified CRUD operations on DynamoDB tables
