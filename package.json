@@ -1,0 +1,33 @@
+{
+  "name": "@shimoku/dynamodb-crud-lite",
+  "version": "1.0.0",
+  "description": "Simplified DynamoDB CRUD operations",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shimoku-tech/dynamodb-client-lite.git"
+  },
+  "keywords": [
+    "dynamodb",
+    "client",
+    "lite",
+    "simple",
+    "crud",
+    "scan",
+    "query"
+  ],
+  "author": "Marçal Pla <marcal.pla@shimoku.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shimoku-tech/dynamodb-crud-lite/issues"
+  },
+  "homepage": "https://github.com/shimoku-tech/dynamodb-crud-lite#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1309.0",
+    "uuid": "^9.0.0"
+  }
+}
