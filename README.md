@@ -16,7 +16,7 @@ JavaScript library for simplified CRUD operations on DynamoDB tables.
 To install the DynamoDB CRUD Lite, you can use `npm`:
 
 ```bash
-npm install dynamodb-crud-lite
+npm install @shimoku/dynamodb-crud-lite
 ```
 
 ## Usage
