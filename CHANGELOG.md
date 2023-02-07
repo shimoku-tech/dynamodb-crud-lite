@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## 1.0.3 (2023-02-07)
+
+### Small text fixes in README.md and package.json
+
+* Fixed installation instruction in README.md.
+* Fixed url repository in package.json.
+
 ## 1.0.2 (2023-02-06)
 
 ### Resolved a npm publication issue
