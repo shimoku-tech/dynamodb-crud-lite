@@ -1,6 +1,6 @@
 {
   "name": "@shimoku/dynamodb-crud-lite",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Simplified DynamoDB CRUD operations",
   "main": "index.js",
   "type": "module",

@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 1.0.4 (2023-02-08)
+
+### Text fix in README.md
+
+* Fix instruction in Usage section of README.md.
+
 ## 1.0.3 (2023-02-07)
 
 ### Small text fixes in README.md and package.json

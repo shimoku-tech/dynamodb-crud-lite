@@ -1,6 +1,6 @@
 # DynamoDB CRUD Lite
 
-[![Version](https://img.shields.io/badge/version-1.0.3-blue.svg)](https://shields.io/)
+[![Version](https://img.shields.io/badge/version-1.0.4-blue.svg)](https://shields.io/)
 
 JavaScript library for simplified CRUD operations on DynamoDB tables.
 
