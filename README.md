@@ -24,7 +24,7 @@ npm install @shimoku/dynamodb-crud-lite
 To use the DynamoDB CRUD Lite, import the functions you need from the library:
 
 ```javascript
-import { createItem, updateItem, deleteItem, query, scan } from 'dynamodb-crud-lite';
+import { createItem, updateItem, deleteItem, query, scan } from '@shimoku/dynamodb-crud-lite';
 ```
 
 ### Creating an Item
